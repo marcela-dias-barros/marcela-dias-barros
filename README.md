@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**marcela-dias-barros/marcela-dias-barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Marcela Dias, Desenvolvedora Front-end. 
+Minha paixão reside em transformar ideias em experiências digitais dinâmicas e responsivas. 
+<br>
+Atualmente estou aprendendo e criando projetos com:
+<br>
 
-Here are some ideas to get you started:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+- <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcela-dias-barros)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-dias-barros)](https://github.com/anuraghazra/github-readme-stats)
